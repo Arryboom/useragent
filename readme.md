@@ -1,0 +1,1 @@
+http://www.useragentstring.com/pages/useragentstring.php?all=TRUE
